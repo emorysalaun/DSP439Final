@@ -8,15 +8,15 @@ These instructions will get you a copy of the project up and running on your loc
 Pytest, Python 3.0+
 
 ### Installation
-git clone https://github.com/emorysalaun/DSP439Final.git
-cd DSP439Final
+'git clone https://github.com/emorysalaun/DSP439Final.git'
+'cd DSP439Final'
 
 #### Author
 Emory Salaun - @emorysalaun
 
 ### Running the script
 To run the script, you will need a .txt file containing DNA sequences, one sequence per line.
-python Exam.py sequences.txt
+'python Exam.py sequences.txt'
 
 ### Running the tests
-Tests are included under the tests.py file, to run them use pytest tests.py
+Tests are included under the tests.py file, to run them use 'pytest tests.py'
