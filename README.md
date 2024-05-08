@@ -11,12 +11,13 @@ Pytest, Python 3.0+
 `git clone https://github.com/emorysalaun/DSP439Final.git`
 `cd DSP439Final`
 
-#### Author
-Emory Salaun - @emorysalaun
-
 ### Running the script
 To run the script, you will need a .txt file containing DNA sequences, one sequence per line.
 `python Exam.py sequences.txt`
 
 ### Running the tests
 Tests are included under the tests.py file, to run them use `pytest tests.py`
+
+#### Author
+Emory Salaun - @emorysalaun
+
