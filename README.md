@@ -19,4 +19,4 @@ To run the script, you will need a .txt file containing DNA sequences, one seque
 `python Exam.py sequences.txt`
 
 ### Running the tests
-Tests are included under the tests.py file, to run them use 'pytest tests.py'
+Tests are included under the tests.py file, to run them use `pytest tests.py`
